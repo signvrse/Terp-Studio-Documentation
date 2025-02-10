@@ -1,21 +1,21 @@
-# Getting Started with TERP Studio
+# Getting Started with TERP 360
 
-This guide will walk you through your first steps with TERP Studio and help you begin creating sign language translations right away.
+This guide will walk you through your first steps with TERP 360 and help you begin creating sign language translations right away.
 
 ## System Requirements
 
-TERP Studio works in any modern web browser with:
+TERP 360 works in any modern web browser with:
 - A stable internet connection
 - An updated web browser (Chrome, Firefox, Safari, or Edge)
 - A microphone (optional, for speech input)
 
 ## Setting Up Your Account
 
-1. Navigate to TERP Studio's website
+1. Navigate to TERP 360's website
 2. Click the "Sign In" button
 3. Choose "Sign in with Google"
 4. Grant the necessary permissions
-5. You'll be redirected to the main TERP Studio interface
+5. You'll be redirected to the main TERP 360 interface
 
 ## Your First Translation
 
@@ -97,4 +97,4 @@ Now that you're familiar with the basics, try:
 - Practicing with both text and voice input
 - Reviewing your translation history
 
-Remember, the more you use TERP Studio, the more comfortable you'll become with its features and capabilities. Don't hesitate to explore and experiment with different input methods and settings to find what works best for you.
+Remember, the more you use TERP 360, the more comfortable you'll become with its features and capabilities. Don't hesitate to explore and experiment with different input methods and settings to find what works best for you.
